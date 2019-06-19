@@ -15,10 +15,8 @@
 
 ## Install
 
-Clone the repository and
-
 ```sh
-pip install --user .
+pip install cloc-plot
 ```
 
 ## Usage
