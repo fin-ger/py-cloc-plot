@@ -15,8 +15,10 @@
 
 ## Install
 
+Clone the repository and
+
 ```sh
-pip install --user -e .
+pip install --user .
 ```
 
 ## Usage
@@ -24,6 +26,12 @@ pip install --user -e .
 ```sh
 cloc-plot path/to/project/root
 ```
+
+This will place a file called `plot.png` in your current folder.
+
+## Example
+
+![](plot.png)
 
 ## Author
 
