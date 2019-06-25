@@ -36,6 +36,7 @@ This will place a file called `plot.png` in your current folder.
 👤 **Fin Christensen**
 
 * Twitter: [@fin_ger_github](https://twitter.com/fin_ger_github)
+* Mastodon: [@fin_ger@mastodon.social](https://mastodon.social/@fin_ger)
 * Github: [@fin-ger](https://github.com/fin-ger)
 
 ## Show your support
