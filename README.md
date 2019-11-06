@@ -4,6 +4,9 @@
   <a href="https://opensource.org/licenses/MIT">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
+  <a href="http://spacemacs.org">
+    <img src="https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg" />
+  </a>
   <a href="https://twitter.com/fin_ger_github">
     <img alt="Twitter: fin_ger_github" src="https://img.shields.io/twitter/follow/fin_ger_github.svg?style=social" target="_blank" />
   </a>
